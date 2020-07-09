@@ -16,7 +16,7 @@ def run_guessing_game
     end
 end
 
-# run_guessing_game
+#run_guessing_game
 
 
 # def run_guessing_game  #never leaves the while loop
